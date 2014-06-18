@@ -1,3 +1,5 @@
+TQDM is optional. (https://github.com/noamraph/tqdm)
+
 Email me at poniesfim@hushmail.com
 I am also on Twitter @PoniesFiM
 nathanguerrero.wordpress.com
